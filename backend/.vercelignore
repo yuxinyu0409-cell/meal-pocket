@@ -1,0 +1,6 @@
+.env
+.env.*
+test_*.py
+__pycache__
+*.sqlite3*
+README.md

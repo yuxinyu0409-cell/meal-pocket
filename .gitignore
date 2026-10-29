@@ -1,0 +1,14 @@
+build/
+build-device/
+dist/
+.build/
+.DS_Store
+xcuserdata/
+*.xcuserstate
+.env
+.env.*
+!**/.env.example
+.vercel/
+*.sqlite3*
+__pycache__/
+prototype/.runtime/
